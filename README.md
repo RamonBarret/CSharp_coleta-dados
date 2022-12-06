@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="urna" src=".github/urna.jpg" />
+  <img alt="coleta dados" src=".github/coleta-img.PNG" />
 </p>
 
 ## Código - Coleta de Dados de Pessoas 🎲📊
