@@ -1,0 +1,15 @@
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_coleta-dados\bin\Debug\net7.0\CSharp_coleta-dados.exe
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_coleta-dados\bin\Debug\net7.0\CSharp_coleta-dados.deps.json
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_coleta-dados\bin\Debug\net7.0\CSharp_coleta-dados.runtimeconfig.json
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_coleta-dados\bin\Debug\net7.0\CSharp_coleta-dados.dll
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_coleta-dados\bin\Debug\net7.0\CSharp_coleta-dados.pdb
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_coleta-dados\obj\Debug\net7.0\CSharp_coleta-dados.csproj.AssemblyReference.cache
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_coleta-dados\obj\Debug\net7.0\CSharp_coleta-dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_coleta-dados\obj\Debug\net7.0\CSharp_coleta-dados.AssemblyInfoInputs.cache
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_coleta-dados\obj\Debug\net7.0\CSharp_coleta-dados.AssemblyInfo.cs
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_coleta-dados\obj\Debug\net7.0\CSharp_coleta-dados.csproj.CoreCompileInputs.cache
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_coleta-dados\obj\Debug\net7.0\CSharp_coleta-dados.dll
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_coleta-dados\obj\Debug\net7.0\refint\CSharp_coleta-dados.dll
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_coleta-dados\obj\Debug\net7.0\CSharp_coleta-dados.pdb
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_coleta-dados\obj\Debug\net7.0\CSharp_coleta-dados.genruntimeconfig.cache
+C:\Users\ramon\OneDrive\Documentos\Ramon\estudos.Ramon\CSharp_coleta-dados\obj\Debug\net7.0\ref\CSharp_coleta-dados.dll
