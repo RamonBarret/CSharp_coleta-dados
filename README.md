@@ -1,8 +1,8 @@
+## Código - Coleta de Dados de Pessoas 🎲📊
+
 <p align="center">
   <img alt="coleta dados" src=".github/coleta-img.PNG" />
 </p>
-
-## Código - Coleta de Dados de Pessoas 🎲📊
 
 ### Linguagem de Programação - C# 
 
